@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAFB4476-0A91-4940-8F78-4FDE56EBF533}|Task 4 NUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAFB4476-0A91-4940-8F78-4FDE56EBF533}|Task 4 NUnit.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAFB4476-0A91-4940-8F78-4FDE56EBF533}|Task 4 NUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 nunit\\maintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB4476-0A91-4940-8F78-4FDE56EBF533}|Task 4 NUnit.csproj|solutionrelative:maintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB4476-0A91-4940-8F78-4FDE56EBF533}|Task 4 NUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 nunit\\webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB4476-0A91-4940-8F78-4FDE56EBF533}|Task 4 NUnit.csproj|solutionrelative:webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFB4476-0A91-4940-8F78-4FDE56EBF533}|Task 4 NUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 nunit\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFB4476-0A91-4940-8F78-4FDE56EBF533}|Task 4 NUnit.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,24 +32,50 @@
         },
         {
           "DockedHeight": 114,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\UnitTest1.cs",
-              "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WebDriverSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\WebDriverSingleton.cs",
+              "RelativeDocumentMoniker": "WebDriverSingleton.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\WebDriverSingleton.cs",
+              "RelativeToolTip": "WebDriverSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T07:18:07.237Z",
+              "WhenOpened": "2025-04-17T09:53:19.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\MainPage.cs",
+              "RelativeToolTip": "MainPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:44:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainTests.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\MainTests.cs",
+              "RelativeDocumentMoniker": "MainTests.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 NUnit\\MainTests.cs",
+              "RelativeToolTip": "MainTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:18:07.237Z",
+              "EditorCaption": ""
             }
           ]
         },
