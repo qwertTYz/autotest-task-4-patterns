@@ -20,10 +20,8 @@ namespace Task_4_NUnit
         public void SetUp()
         {
             _driver = WebDriverSingleton.GetDriver();
-            _driver.Navigate().GoToUrl("https://en.ehu.lt/");
-            _driver.Manage().Window.Maximize();
 
-            _mainPage = new MainPage(_driver);
+            _mainPage = new MainPageBuilder(_driver).Build();
         }
 
         [Test]
@@ -65,7 +63,6 @@ namespace Task_4_NUnit
             Assert.That(_mainPage.SocialNetworks.Displayed);
         }
 
-
         [TearDown]
         public void TearDown()
         {
@@ -73,6 +70,4 @@ namespace Task_4_NUnit
             _driver.Dispose();
         }
     }
-
-
 }

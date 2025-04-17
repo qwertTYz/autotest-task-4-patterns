@@ -11,7 +11,6 @@ namespace Task_4_xUnit
 {
     public class WebDriverSingleton
     {
-
         private static IWebDriver? _driver;
 
         private WebDriverSingleton() { }

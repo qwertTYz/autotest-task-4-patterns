@@ -37,7 +37,6 @@ namespace Task_4_xUnit
             _driver = driver;
         }
 
-
         public MainPage NavigateToAbout()
         {
             _driver.FindElement(_about).Click();

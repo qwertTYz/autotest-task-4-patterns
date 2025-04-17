@@ -8,7 +8,6 @@ using Xunit;
 
 namespace Task_4_XUnit
 {
-
     public class MainTests
     {
         private IWebDriver _driver;
@@ -16,10 +15,8 @@ namespace Task_4_XUnit
         private IWebDriver InitDriver()
         {
             _driver = WebDriverSingleton.GetDriver();
-            _driver.Navigate().GoToUrl("https://en.ehu.lt/");
-            _driver.Manage().Window.Maximize();
 
-            _mainPage = new MainPage(_driver);
+            _mainPage = new MainPageBuilder(_driver).Build();
 
             return _driver;
         }

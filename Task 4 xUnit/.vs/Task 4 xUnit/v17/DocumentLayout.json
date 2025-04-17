@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 xunit\\webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|solutionrelative:webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 xunit\\maintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|solutionrelative:maintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 xunit\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 xunit\\mainpagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|solutionrelative:mainpagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 xunit\\webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|solutionrelative:webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 xunit\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48A693D5-9D17-4546-95ED-AB58C69F3624}|Task 4 xUnit.csproj|c:\\users\\danii\\desktop\\autotest task 4 patterns\\task 4 xunit\\task 4 xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -36,63 +40,75 @@
         },
         {
           "DockedHeight": 114,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MainPageBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\MainPageBuilder.cs",
+              "RelativeDocumentMoniker": "MainPageBuilder.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\MainPageBuilder.cs",
+              "RelativeToolTip": "MainPageBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:30:50.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainPage.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
               "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\MainPage.cs",
               "RelativeToolTip": "MainPage.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwvyUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T09:43:14.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WebDriverSingleton.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\WebDriverSingleton.cs",
               "RelativeDocumentMoniker": "WebDriverSingleton.cs",
               "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\WebDriverSingleton.cs",
               "RelativeToolTip": "WebDriverSingleton.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T09:34:06.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainTests.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\MainTests.cs",
               "RelativeDocumentMoniker": "MainTests.cs",
               "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\MainTests.cs",
               "RelativeToolTip": "MainTests.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T07:18:29.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Task 4 xUnit",
+              "DocumentIndex": 4,
+              "Title": "Task 4 xUnit.csproj",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\Task 4 xUnit.csproj",
               "RelativeDocumentMoniker": "Task 4 xUnit.csproj",
               "ToolTip": "C:\\Users\\danii\\Desktop\\autotest task 4 patterns\\Task 4 xUnit\\Task 4 xUnit.csproj",
               "RelativeToolTip": "Task 4 xUnit.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-17T09:28:07.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-04-17T09:28:07.358Z"
             }
           ]
         },
